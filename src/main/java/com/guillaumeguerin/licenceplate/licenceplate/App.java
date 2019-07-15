@@ -85,20 +85,20 @@ public class App
 	}
 	
 	/**
-	 * Generates a licence plate for a given country.
+	 * Generates a license plate for a given country.
 	 * 
-	 * @param country the country for the licence plate
+	 * @param country the country for the license plate
 	 */
 	private static void generateCountryPlate(String country) {
 		switch(country) {
 			case "BA":
-			
+				Bosnia.generateLicensePlate();
 			;
 			case "FR":
-				
+				France.generateLicensePlate();
 			;
 			case "HU":
-				
+				Hungary.generateLicensePlate();
 			;
 			default:
 		}
@@ -106,7 +106,7 @@ public class App
 	
     public static void main( String[] args )
     {
-    	System.out.println("Licence Plate Generator tool.");
+    	System.out.println("License Plate Generator tool.");
     	if(args.length < 1) {
     		usage();
     		System.out.println("Generating random result...");

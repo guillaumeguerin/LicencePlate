@@ -27,7 +27,7 @@ Generates licence plates for European countries.
 |Georgia|❌|
 |Germany|❌|
 |Greece|❌|
-|Hungary|❌|
+|Hungary|✔️|
 |Iceland|❌|
 |Ireland|❌|
 |Italy|❌|

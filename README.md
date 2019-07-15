@@ -3,4 +3,3 @@
 Generates licence plates for European countries.
 
 ![French licence plate example](https://raw.githubusercontent.com/guillaumeguerin/LicencePlate/master/french.svg?sanitize=true)
-<img src="https://raw.githubusercontent.com/guillaumeguerin/LicencePlate/master/french.svg?sanitize=true">

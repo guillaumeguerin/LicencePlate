@@ -1,0 +1,14 @@
+<svg viewBox="0 0 300 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .id { font: bold 22px sans-serif; }
+    .country { font: bold 15px sans-serif; }
+  </style>
+  
+  <rect width="10%" height="100%" style="fill:rgb(0, 51, 204);" />
+  <text x="2" y="42" fill="rgb(255, 255, 255)" class="country">BIH</text>
+
+  <!-- Licence number -->
+  <text transform="scale(1, 2.5)" x="35" y="17.5" fill="rgb(0, 0, 0)" class="id">AA-000000</text>
+  <!-- Licence number -->
+
+</svg>

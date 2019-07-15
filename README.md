@@ -15,7 +15,7 @@ Generates licence plates for European countries.
 |Azerbaijan|❌|
 |Belarus|❌|
 |Belgium|❌|
-|Bosnia and Herzegovina|❌|
+|Bosnia and Herzegovina|✔️|
 |Bulgaria|❌|
 |Croatia|❌|
 |Cyprus|❌|

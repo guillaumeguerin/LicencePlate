@@ -1,0 +1,33 @@
+<svg viewBox="0 0 300 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .id { font: bold 22px sans-serif; }
+    .country { font: bold 15px sans-serif; }
+  </style>
+  
+  <rect width="10%" height="100%" style="fill:rgb(0, 51, 204);" />
+  <text x="10" y="42" fill="rgb(255, 255, 255)" class="country">F</text>
+
+  <!-- Start of European flag -->
+  <image x="12.5" y="5" width="3" height="3" xlink:href="star.svg" />
+  <image x="17" y="6.5" width="3" height="3" xlink:href="star.svg" />
+  <image x="8" y="6.5" width="3" height="3" xlink:href="star.svg" />
+  <image x="5" y="10" width="3" height="3" xlink:href="star.svg" />
+  <image x="20" y="10" width="3" height="3" xlink:href="star.svg" />
+  <image x="4" y="14" width="3" height="3" xlink:href="star.svg" />
+  <image x="21" y="14" width="3" height="3" xlink:href="star.svg" />
+  <image x="5" y="18" width="3" height="3" xlink:href="star.svg" />
+  <image x="20" y="18" width="3" height="3" xlink:href="star.svg" />
+  <image x="17" y="21.5" width="3" height="3" xlink:href="star.svg" />
+  <image x="8" y="21.5" width="3" height="3" xlink:href="star.svg" />
+  <image x="12.5" y="23" width="3" height="3" xlink:href="star.svg" />
+  <!-- End of European flag -->
+
+  <!-- Licence number -->
+  <text transform="scale(1, 2.5)" x="35" y="17.5" fill="rgb(0, 0, 0)" class="id">AA-000-BB</text>
+  <!-- Licence number -->
+
+  <!-- Area -->
+  <rect x="155" y="0" width="10%" height="100%" style="fill:rgb(0, 51, 204);" />
+  <text x="162" y="42" fill="rgb(255, 255, 255)" class="country">00</text>
+  <!-- Area -->
+</svg>
